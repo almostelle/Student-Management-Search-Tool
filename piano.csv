@@ -1,0 +1,101 @@
+Teacher,last_name,first_name,day,time,form,level,piano,vocal,guitar,contact_1_name,contact_1_num,contact_2_name,contact_2_num,contact_3_name,contact_3_num,birthday,allergies
+John,Roslen,Wendell,Saturday,5:48 PM,false,Early Intermediate,false,false,false,Wendell Roslen,2106789531,Wendell Roslen,6311896788,,"",7/17/2012,
+Sally,Ornells,Garth,Tuesday,2:50 PM,false,Intermediate,true,false,false,Garth Ornells,9749127050,Garth Ornells,7665768135,,"",3/15/2013,
+Sally,Findlay,Dolph,Tuesday,3:45 PM,false,Intermediate,false,true,true,Dolph Findlay,6496887217,Dolph Findlay,6603093662,,"",6/26/2002,
+Mary,Kilbourn,Daven,Monday,1:15 PM,true,Elementary,true,true,false,Daven Kilbourn,2641956101,Daven Kilbourn,2655532654,,"",10/12/2019,Metoclopramide
+Mary,Blamey,Olga,Friday,10:41 AM,true,Early Beginner,true,true,true,Olga Blamey,7907397592,Olga Blamey,4644090083,,"",5/30/2013,Levetiracetam
+Sally,Whillock,Amye,Monday,4:07 PM,true,Early Intermediate,false,false,false,Amye Whillock,6843028942,Amye Whillock,4599886956,,"",4/30/2010,
+John,O'Geneay,Amelie,Thursday,7:37 PM,false,Beginner,true,true,true,Amelie O'Geneay,5753094405,Amelie O'Geneay,4364674117,,"",9/20/2000,
+Sally,Buff,Caye,Friday,6:07 PM,true,Early Intermediate,true,false,false,Caye Buff,1184102644,Caye Buff,1655362427,,"",3/19/2010,
+Sally,Burkert,Fonsie,Monday,1:14 PM,true,Late Elementary,false,false,true,Fonsie Burkert,5999338316,Fonsie Burkert,3868486174,,"",10/26/2007,
+John,Coopey,Sheba,Saturday,2:36 PM,false,Advanced,true,true,false,Sheba Coopey,6774831558,Sheba Coopey,8276003406,,"",4/7/2015,
+Tim,Churchill,Loni,Friday,5:07 PM,true,Late Elementary,false,true,true,Loni Churchill,7214615095,Loni Churchill,2888016767,,"",12/22/2016,NORETHINDRONE
+John,Casini,Rebekah,Sunday,5:45 PM,false,Early Intermediate,false,true,false,Rebekah Casini,7021749577,Rebekah Casini,8451506289,,"",12/19/2011,
+Mary,Bicker,Benedick,Monday,11:53 AM,false,Advanced,false,true,false,Benedick Bicker,4984871924,Benedick Bicker,6092804077,,"",10/1/2015,
+Tim,Hindge,Mercedes,Sunday,3:40 PM,false,Advanced,false,false,true,Mercedes Hindge,8857215225,Mercedes Hindge,6534507241,,"",10/7/2010,
+Mary,Darch,Felice,Tuesday,7:58 PM,true,Beginner,false,true,false,Felice Darch,8563757788,Felice Darch,8298759661,,"",12/1/2017,
+Tim,Lamperti,Allistir,Monday,10:25 AM,true,Advanced,true,false,false,Allistir Lamperti,1126866682,Allistir Lamperti,4679413115,,"",12/3/2002,"Titanium Dioxide, Octinoxate, Zinc Oxide, Octisalate"
+Mary,Warlton,Livia,Friday,6:34 PM,false,Early Intermediate,true,true,true,Livia Warlton,5833066208,Livia Warlton,8306560814,,"",10/9/2005,
+John,Janew,Dredi,Wednesday,7:49 PM,true,Early Intermediate,false,false,true,Dredi Janew,6228815922,Dredi Janew,2525674325,,"",3/10/2015,
+John,Blowen,Fabe,Thursday,7:12 PM,false,Early Beginner,true,true,true,Fabe Blowen,4594119035,Fabe Blowen,5165709688,,"",11/3/2006,
+John,Jemmison,Malina,Saturday,2:42 PM,false,Early Beginner,true,true,true,Malina Jemmison,1389307656,Malina Jemmison,6447525935,,"",1/5/2019,
+John,Parlet,Tansy,Monday,12:45 PM,true,Beginner,true,true,false,Tansy Parlet,4303575290,Tansy Parlet,5568064676,,"",4/9/2006,
+John,Ellesworth,Erminia,Tuesday,2:58 PM,false,Late Elementary,false,false,false,Erminia Ellesworth,9233356584,Erminia Ellesworth,2969768766,,"",5/28/2007,Cefdinir
+Sally,Lott,Teador,Thursday,10:12 AM,true,Beginner,true,false,true,Teador Lott,5252385716,Teador Lott,2531779322,,"",10/18/2002,
+John,Alpine,Hurlee,Tuesday,11:18 AM,false,Late Elementary,false,false,false,Hurlee Alpine,8365759854,Hurlee Alpine,5897592153,,"",9/8/2018,
+Sally,Woltering,Emerson,Friday,6:35 PM,false,Beginner,false,true,false,Emerson Woltering,1228443282,Emerson Woltering,7609489161,Emerson Woltering,7274036391,12/2/2002,
+Mary,Danielian,Gaspar,Saturday,2:08 PM,false,Intermediate,true,true,true,Gaspar Danielian,4509098884,Gaspar Danielian,9372459829,,"",12/8/2011,
+Tim,Duffield,Arne,Sunday,11:41 AM,false,Advanced,false,false,false,Arne Duffield,1738722599,Arne Duffield,9705628825,,"",2/3/2003,
+John,Poker,Karissa,Friday,1:37 PM,false,Beginner,false,false,false,Karissa Poker,4295745205,Karissa Poker,6763417375,,"",10/26/2008,
+John,Chewter,Mata,Saturday,10:03 AM,false,Advanced,false,true,true,Mata Chewter,2977824781,Mata Chewter,4701668560,,"",8/23/2013,
+John,Le Quesne,Tessy,Sunday,5:54 PM,true,Elementary,false,false,true,Tessy Le Quesne,9152697653,Tessy Le Quesne,3129916382,,"",12/16/2012,
+Sally,Dundon,Christoforo,Tuesday,12:58 PM,false,Early Beginner,false,true,false,Christoforo Dundon,9429624043,Christoforo Dundon,5509920812,,"",4/24/2012,"Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone"
+John,Gagie,Minnie,Saturday,3:10 PM,true,Elementary,true,true,true,Minnie Gagie,5377847654,Minnie Gagie,5562524996,,"",2/15/2004,
+Tim,Goodbairn,Gayelord,Sunday,5:37 PM,false,Elementary,true,false,false,Gayelord Goodbairn,3504219757,Gayelord Goodbairn,5177813262,,"",10/25/2003,
+Sally,Gerrietz,Darrin,Sunday,6:44 PM,false,Early Intermediate,true,false,true,Darrin Gerrietz,8287237354,Darrin Gerrietz,3967482108,,"",11/28/2004,"Avobenzone, Homosalate, Octisalate,Octocrylene, Oxybenzone"
+John,Dimsdale,Mag,Sunday,1:54 PM,true,Early Beginner,false,false,true,Mag Dimsdale,2411972417,Mag Dimsdale,6974542569,,"",3/6/2007,
+John,Godsil,Lyndell,Thursday,1:33 PM,false,Elementary,false,false,false,Lyndell Godsil,4855321363,Lyndell Godsil,9977596097,,"",8/12/2014,
+Mary,Poletto,Jourdan,Sunday,6:04 PM,true,Elementary,false,false,false,Jourdan Poletto,3432640740,Jourdan Poletto,7289434528,,"",12/9/2017,
+Tim,Abeles,Abagael,Saturday,5:36 PM,false,Intermediate,false,true,false,Abagael Abeles,9555113435,Abagael Abeles,5961456656,,"",6/15/2002,VERAPAMIL HYDROCHLORIDE
+Sally,Tromans,Horten,Thursday,7:29 PM,true,Advanced,true,true,true,Horten Tromans,5854464697,Horten Tromans,2723027779,,"",9/26/2013,
+Tim,Facher,Broddie,Tuesday,7:33 PM,true,Elementary,true,false,false,Broddie Facher,2651636592,Broddie Facher,7794829643,Broddie Facher,5875956301,2/12/2016,
+John,Spinnace,Dacey,Saturday,5:33 PM,true,Late Elementary,false,true,true,Dacey Spinnace,4476025113,Dacey Spinnace,5828947677,,"",1/17/2014,Aspirin
+Mary,Maier,Merrily,Sunday,7:49 PM,false,Early Intermediate,false,false,false,Merrily Maier,7257609920,Merrily Maier,3829961804,,"",2/21/2001,TITANIUM DIOXIDE
+John,Lovelace,Adelice,Thursday,2:31 PM,false,Intermediate,true,false,false,Adelice Lovelace,3883649679,Adelice Lovelace,1157336610,Adelice Lovelace,3819180461,12/5/2016,
+Sally,Archer,Legra,Friday,4:03 PM,true,Late Elementary,true,true,true,Legra Archer,5132343251,Legra Archer,5336708187,,"",7/23/2019,
+John,Lockwood,Fernandina,Friday,1:12 PM,false,Elementary,false,true,false,Fernandina Lockwood,7869137513,Fernandina Lockwood,1951234506,,"",3/28/2007,
+John,Cobelli,Juline,Monday,2:28 PM,true,Elementary,false,false,true,Juline Cobelli,7486571575,Juline Cobelli,6434038939,,"",6/1/2005,
+Tim,Brear,Mufi,Thursday,6:04 PM,true,Elementary,false,true,true,Mufi Brear,6367820366,Mufi Brear,2806196836,,"",8/21/2010,
+Mary,Minshall,Vincenz,Saturday,10:30 AM,false,Early Intermediate,true,false,false,Vincenz Minshall,6825584500,Vincenz Minshall,7364548784,,"",12/30/2015,
+Sally,Romei,Ardyth,Wednesday,5:30 PM,true,Early Intermediate,true,true,true,Ardyth Romei,8909515215,Ardyth Romei,8646547885,Ardyth Romei,6699044983,1/17/2014,
+Mary,Balcock,Ursala,Sunday,1:59 PM,false,Intermediate,false,false,true,Ursala Balcock,4488663920,Ursala Balcock,8227151160,,"",3/11/2001,Quetiapine fumarate
+Sally,Stair,Drucill,Thursday,12:44 PM,false,Advanced,false,true,true,Drucill Stair,9965454912,Drucill Stair,3632816649,,"",12/10/2004,
+Mary,McKerrow,Ethelred,Tuesday,12:47 PM,true,Advanced,false,true,false,Ethelred McKerrow,2069561318,Ethelred McKerrow,5387231374,,"",6/7/2017,Silver Sulfadiazine
+John,Sherry,Roxana,Friday,6:53 PM,true,Early Intermediate,true,false,true,Roxana Sherry,5446238129,Roxana Sherry,2053658297,,"",5/29/2004,
+Sally,Rassmann,Thedrick,Thursday,1:08 PM,true,Early Intermediate,false,true,true,Thedrick Rassmann,9806879996,Thedrick Rassmann,6046693080,,"",6/16/2007,
+John,LaBastida,Glenden,Monday,6:20 PM,false,Intermediate,false,true,false,Glenden LaBastida,9263228853,Glenden LaBastida,4253516161,,"",7/1/2007,Apple Malus sp.
+John,Mulran,Kendricks,Saturday,12:46 PM,true,Late Elementary,true,false,true,Kendricks Mulran,4575922011,Kendricks Mulran,1709818880,,"",9/17/2010,
+Mary,Rampton,Stephanus,Saturday,2:02 PM,false,Late Elementary,false,false,true,Stephanus Rampton,6372111378,Stephanus Rampton,5451028740,Stephanus Rampton,7304604446,6/17/2002,
+John,Dadson,Elnora,Thursday,10:18 AM,false,Intermediate,false,false,true,Elnora Dadson,6276516608,Elnora Dadson,2191733281,,"",4/6/2003,
+Mary,Bodker,Fara,Friday,5:06 PM,false,Beginner,false,true,true,Fara Bodker,2042827187,Fara Bodker,9281479137,,"",9/20/2011,SODIUM FLUORIDE
+Sally,Wroe,Angelita,Monday,11:31 AM,true,Early Beginner,true,true,false,Angelita Wroe,5295879452,Angelita Wroe,6995348819,,"",12/9/2014,
+Tim,Winslow,Chrissy,Friday,1:29 PM,false,Late Elementary,true,true,false,Chrissy Winslow,2107459077,Chrissy Winslow,1634263409,Chrissy Winslow,5225857297,11/21/2004,
+John,Andreini,Brant,Saturday,7:38 PM,true,Beginner,true,true,false,Brant Andreini,8737753383,Brant Andreini,9831173018,,"",4/21/2009,OXYGEN
+John,Meenehan,Clayson,Wednesday,10:00 AM,false,Intermediate,true,false,false,Clayson Meenehan,5463488545,Clayson Meenehan,6042138492,,"",6/7/2006,
+John,Musso,Kassie,Monday,11:59 AM,false,Elementary,true,true,true,Kassie Musso,8781905937,Kassie Musso,4276215420,Kassie Musso,7022260476,10/29/2012,
+Sally,McGinnell,Zolly,Thursday,6:38 PM,true,Advanced,true,true,false,Zolly McGinnell,9042325392,Zolly McGinnell,9431443195,,"",8/1/2018,"Aconitum napellus, Bellis perennis, Bromium, Bryonia, Chamomilla, Conium maculatum, Iodium, Phellandrium aquaticum, Phytolacca decandra, Scrophularia nodosa and Silicea"
+John,McKaile,Mateo,Sunday,4:46 PM,false,Elementary,false,false,false,Mateo McKaile,7141700443,Mateo McKaile,3727219049,,"",12/10/2000,
+Tim,Millson,Abeu,Monday,10:56 AM,true,Early Beginner,false,true,false,Abeu Millson,6388579254,Abeu Millson,8599111128,,"",8/10/2018,
+John,Meller,Shelden,Sunday,11:28 AM,true,Intermediate,false,true,true,Shelden Meller,1818641318,Shelden Meller,5361635218,Shelden Meller,3322022221,7/22/2001,
+John,Leuty,Val,Monday,1:52 PM,true,Early Beginner,false,false,true,Val Leuty,2594574889,Val Leuty,5608704828,,"",3/16/2016,
+John,Gentner,Lola,Friday,6:44 PM,true,Intermediate,false,false,false,Lola Gentner,9195054889,Lola Gentner,9567441420,,"",4/2/2014,"Mineral Oil, Petrolatum, Phenylephrine Hydrochloride"
+Sally,Gamon,Hurley,Monday,12:14 PM,true,Beginner,false,false,true,Hurley Gamon,5587116684,Hurley Gamon,5948936581,,"",10/3/2006,
+Tim,Rutigliano,Rakel,Monday,2:35 PM,true,Early Beginner,true,true,false,Rakel Rutigliano,1348359269,Rakel Rutigliano,1192628675,,"",3/13/2006,
+John,Elen,Kerr,Thursday,2:43 PM,true,Intermediate,true,false,false,Kerr Elen,3146519540,Kerr Elen,3909038196,,"",9/1/2002,
+John,Fishpoole,Kirsten,Monday,5:11 PM,false,Intermediate,true,false,true,Kirsten Fishpoole,2057538729,Kirsten Fishpoole,3109230720,,"",9/30/2017,
+John,Pidduck,Lucho,Friday,3:16 PM,true,Beginner,false,false,true,Lucho Pidduck,5797505809,Lucho Pidduck,7269120591,,"",12/31/2001,
+Sally,Giacoppoli,Brand,Monday,2:38 PM,false,Beginner,true,true,true,Brand Giacoppoli,9832767921,Brand Giacoppoli,6771869970,,"",2/26/2004,
+John,Campany,Kissee,Wednesday,2:12 PM,false,Advanced,false,true,true,Kissee Campany,7025756669,Kissee Campany,7307733868,,"",12/5/2003,ALCOHOL
+Mary,Janak,Cissy,Saturday,11:59 AM,true,Early Beginner,false,true,true,Cissy Janak,4897781473,Cissy Janak,6042287599,,"",1/12/2017,
+Sally,Wick,Theressa,Thursday,3:42 PM,true,Beginner,false,true,true,Theressa Wick,8084887982,Theressa Wick,7352835999,,"",2/19/2017,
+Tim,Bernollet,Magdalen,Sunday,3:11 PM,false,Early Beginner,true,false,false,Magdalen Bernollet,8048647018,Magdalen Bernollet,1224377064,,"",12/27/2003,
+John,Tomaselli,Luther,Tuesday,3:44 PM,false,Early Beginner,true,false,true,Luther Tomaselli,1373505459,Luther Tomaselli,5794728050,,"",4/24/2008,"GLYCERIN, ALLANTOIN"
+John,Partlett,Emmett,Saturday,7:00 PM,false,Intermediate,false,true,false,Emmett Partlett,6069729216,Emmett Partlett,2625075659,,"",2/2/2003,
+John,Somes,Krystyna,Sunday,4:43 PM,true,Beginner,false,false,true,Krystyna Somes,4777970431,Krystyna Somes,5083687075,,"",7/27/2002,Almond Food
+Mary,Hallbord,Errol,Monday,4:19 PM,false,Early Intermediate,true,false,true,Errol Hallbord,1239944587,Errol Hallbord,8058231004,,"",11/17/2000,
+Sally,Beckitt,Cordie,Friday,1:43 PM,false,Intermediate,true,false,true,Cordie Beckitt,2256167889,Cordie Beckitt,5973616027,Cordie Beckitt,7263682045,12/8/2008,Salicylic Acid
+Sally,Wearing,Culley,Wednesday,10:17 AM,false,Early Intermediate,false,true,false,Culley Wearing,4374392032,Culley Wearing,7698740283,,"",12/13/2007,
+Sally,Midghall,Cirstoforo,Thursday,1:47 PM,false,Intermediate,true,true,true,Cirstoforo Midghall,5756485706,Cirstoforo Midghall,1794838095,,"",9/23/2001,
+John,Kimbly,Mathilde,Tuesday,12:33 PM,true,Advanced,false,false,true,Mathilde Kimbly,5362706577,Mathilde Kimbly,2741270846,,"",6/19/2001,
+John,Veronique,Jerrie,Saturday,6:10 PM,false,Elementary,true,true,false,Jerrie Veronique,8969546971,Jerrie Veronique,4538346998,,"",3/21/2019,
+John,Dominico,Jenna,Sunday,6:47 PM,false,Advanced,false,false,false,Jenna Dominico,2607794952,Jenna Dominico,4658639708,,"",10/24/2011,
+Tim,Ruddoch,Sabine,Monday,4:55 PM,false,Beginner,false,false,true,Sabine Ruddoch,4914199520,Sabine Ruddoch,1919948242,,"",9/29/2003,Acetaminophen
+John,Goodyear,Norton,Friday,2:40 PM,true,Beginner,true,false,false,Norton Goodyear,2679116729,Norton Goodyear,5121481707,,"",2/7/2011,
+John,Belone,Allie,Saturday,12:49 PM,true,Early Beginner,true,true,true,Allie Belone,5464315506,Allie Belone,2669965157,,"",9/25/2010,
+John,Atley,Sam,Thursday,12:02 PM,true,Advanced,false,false,true,Sam Atley,4116148889,Sam Atley,3522395620,,"",1/11/2011,Carbidopa and Levodopa
+John,Lindell,Fredia,Friday,5:21 PM,true,Early Intermediate,false,true,true,Fredia Lindell,4117050114,Fredia Lindell,2912952909,,"",12/28/2019,
+Sally,Gerbi,Cicely,Saturday,11:03 AM,false,Beginner,true,true,false,Cicely Gerbi,7876582915,Cicely Gerbi,6875049807,,"",1/11/2005,
+Sally,Dametti,Lotty,Sunday,7:50 PM,false,Beginner,true,false,true,Lotty Dametti,2657261555,Lotty Dametti,4926569128,,"",5/10/2015,
+Sally,Durrell,Mellisa,Saturday,1:50 PM,false,Advanced,true,false,true,Mellisa Durrell,7029805817,Mellisa Durrell,7374550686,,"",4/14/2006,TITANIUM DIOXIDE
+Mary,Worshall,Glynda,Wednesday,11:02 AM,false,Late Elementary,false,true,false,Glynda Worshall,8254666794,Glynda Worshall,5135142950,,"",8/22/2005,
+Tim,MacDunleavy,Eustacia,Monday,5:56 PM,false,Advanced,false,true,true,Eustacia MacDunleavy,8969356326,Eustacia MacDunleavy,4433376043,,"",11/18/2009,Clorazepate dipotassium
