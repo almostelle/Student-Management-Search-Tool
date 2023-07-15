@@ -1,2 +1,0 @@
-=Query({'John - Students'!A2:V100 ; 'Mary - Students'!A2:V100 ; 'Tim - Students'!A2:V100 ; 'Sally - Students'!A2:V100}, 
-"SELECT Col1, Col2, Col3, Col4, Col5, Col6,Col7,Col8,Col9,Col10, Col11,Col12,Col13, Col14, Col15,Col16,Col17,Col18,Col19 WHERE Col1 is not null", 0 )
