@@ -1,3 +1,8 @@
+// Querys all teachers records into a single spreadsheet in one query without overlaps or gaps 
+=Query({'John - Students'!A2:V100 ; 'Mary - Students'!A2:V100 ; 'Tim - Students'!A2:V100 ; 'Sally - Students'!A2:V100}, 
+"SELECT Col1, Col2, Col3, Col4, Col5, Col6,Col7,Col8,Col9,Col10, Col11,Col12,Col13, Col14, Col15,Col16,Col17,Col18,Col19 WHERE Col1 is not null", 0 )
+
+// Conditional statement that considers criteria in search boxes and queries information from combined teacher records if conditions are met. Accounts for errors in capitalization and date/text format
 =IF(AND(B4 <>"", C4 = "Choose", D4 = "", E4 = "", F4 = FALSE, G4 = FALSE, H4 = FALSE, I4 = ""), 
 QUERY('All Students'!A5:T105, "SELECT * WHERE (LOWER(A) Contains LOWER('"&B4&"')) or (LOWER(B) Contains LOWER('"&B4&"')) or (LOWER(C) Contains LOWER('"&B4&"')) or (LOWER(G) Contains LOWER('"&B4&"')) or (LOWER(K) Contains LOWER('"&B4&"')) or (LOWER(M) Contains LOWER('"&B4&"'))  or (LOWER(O) Contains LOWER('"&B4&"')) or (LOWER(T) Contains LOWER('"&B4&"'))", 1), 
 IF(AND(C4 <>"", B4= "", D4 = "", E4 = "", F4 = FALSE, G4 = FALSE, H4 = FALSE, I4 = ""), 
